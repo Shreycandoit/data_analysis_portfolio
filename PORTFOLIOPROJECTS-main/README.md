@@ -1,4 +1,4 @@
-# About Devanshu Gupta's portfolio
+# About Shreyansh Goushal's Data Analyst Portfolio
 
 
 # [Project 1: Movie Correlation Project](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/667a06e5f1d16db4807aa6b0cf7bcf79de11425f/moviecorrelationproject.ipynb)

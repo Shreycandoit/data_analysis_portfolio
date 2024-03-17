@@ -1,7 +1,7 @@
 # About Shreyansh Goushal's portfolio
 
 
-# [Project 1: Movie Correlation Project](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/667a06e5f1d16db4807aa6b0cf7bcf79de11425f/moviecorrelationproject.ipynb)
+# [Project 1: Movie Correlation Project](https://github.com/Shreycandoit/data_analysis_portfolio/blob/main/PORTFOLIOPROJECTS-main/moviecorrelationproject.ipynb)
 
 This project was done on Jupyter Notebook, mainly based on Python. In this project, I've found some correlations between different fields of the given dataset.
 

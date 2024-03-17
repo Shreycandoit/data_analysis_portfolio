@@ -14,21 +14,7 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 
 
 
-# [Project 2: London Bike Rides](https://public.tableau.com/views/LondonBikeRides_17010780932340/LondonBikeRides?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-This project consists of well-organised dashboard where I tried to visualize the avg. moving rides in London in different climatic conditions such as Temperature, Windspeed and weather.
-
-* Total Rides between the selected range where dashboard automatically detect the min. and max. range for months and display visualization accordingly.
-* Tried to pullout the use of "Tooltips" with finese so that whenever you hover over the timeline graph, you'll see two nice and clean barcharts for the selected range.
-* Applied clear filters, so just play with it and enjoy!!!
-* Dataset: London Bike rides Dataset (From Kaggle)
-
-
-![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/134c845f-c3e7-48f1-a7ac-5c7917546b63)
-![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/2cfc8b78-01ba-4a83-9b3f-4591ccda8f49)
-
-
-# [Project 4: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
+# [Project 2: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
 You can download the required dataset from the following website-> [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths)
 
 ## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 

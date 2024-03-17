@@ -14,10 +14,10 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 
 
 
-# [Project 2: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
+# [Project 2: Major Project-Covid-19](https://github.com/Shreycandoit/data_analysis_portfolio/tree/main/PORTFOLIOPROJECTS-main/Major%20Project-Covid-19)
 You can download the required dataset from the following website-> [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths)
 
-## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
+## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/Shreycandoit/data_analysis_portfolio/tree/main/PORTFOLIOPROJECTS-main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
 
 * In this file, I've dropped some unnecessary fields from the .csv file by using pandas.
 * Divided the original dataset into two .csv files:
@@ -28,7 +28,7 @@ You can find these datasets here- [Divided covid datasets.zip](https://github.co
 
 Since I love python, I used Jupyter Notebook here. You can directly execute this step using MS-Excel.
 
-## [File 2: Data Cleaning by MySQL- COVID PORTFOLIO PROJECT.sql](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/COVID%20PORTFOLIO%20PROJECT.sql)
+## [File 2: Data Cleaning by MySQL- COVID PORTFOLIO PROJECT.sql](https://github.com/Shreycandoit/data_analysis_portfolio/tree/main/PORTFOLIOPROJECTS-main/Major%20Project-Covid-19/COVID%20PORTFOLIO%20PROJECT.sql)
 
 * Performed some basic operations and functions so that data can be easily explored and visualized by Tableau.
 * Extracted 4 sub .csv files 
@@ -37,26 +37,17 @@ Since I love python, I used Jupyter Notebook here. You can directly execute this
 3. [Table3_HighestInfectionRateComparedPopulation.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476354/Table3_HighestInfectionRateComparedPopulation.csv) and
 4. [Table4_HighestInfectionRateComparedPopulationpt2.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476359/Table4_HighestInfectionRateComparedPopulationpt2.csv)
 
-## [File 3: Covid Dashboard.tbwx](https://public.tableau.com/views/CovidDashboard_16727675035610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 * By using the 4 csv files extracted by SQL, I've visualized them on a single dashboard. Explore and play around with it.
 Thank you!
 * Glimpse to that dashboard->
 ![image](https://user-images.githubusercontent.com/109216952/213959746-060d22e0-d2cb-4034-bfe5-ccb4237ddb4e.png)
 
-# [Project 5: Data cleaning using MySQL- Nashville Housing Data](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/nashvilleDataCleaning.sql)
+# [Project 3: Data cleaning using MySQL- Nashville Housing Data](https://github.com/Shreycandoit/data_analysis_portfolio/tree/main/PORTFOLIOPROJECTS-main/blob/main/nashvilleDataCleaning.sql)
 
-* Dataset: [Nashville Housing Data for Data Cleaning.xlsx.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476525/Nashville.Housing.Data.for.Data.Cleaning.xlsx.zip)
+* Dataset: [Nashville Housing Data for Data Cleaning.xlsx.zip](https://github.com/Shreycandoit/data_analysis_portfolio/tree/main/PORTFOLIOPROJECTS/files/10476525/Nashville.Housing.Data.for.Data.Cleaning.xlsx.zip)
 * Cleaned this dataset by using MySQL.
 * Used CTE's.
 * Atlast, deleted unused columns in the given dataset.
 
 
-# [Project 6: Washington House Sales](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/WashingtonHouseSales_17012368024790/KingCountyHouseSales)
-The aim for this project is to find out the Daily avg. House Sales in King County, Washington between the May 2014 and May 2015. I have tried to categorize the house as per the views such as excellent, good, fair, etc. and conditions such as Fair-Badly worn, poor-worn out etc. with the help filters, in different zip codes.
 
-* Dataset:- [HouseData.xlsx](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/13520731/HouseData.xlsx)
-* Developed a Tableau dashboard to visualize Daily avg. House sales at specific zip codes.
-* Distributed the house price, Bedrooms and Bathrooms using histograms followed by their views and conditions heatmap filtered by yr built, sqft. living and a nice calendar.
-
-![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/7bd9f1b7-0e1b-4141-8ee4-931cff4299c6)
